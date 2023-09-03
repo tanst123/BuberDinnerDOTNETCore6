@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "6urwYBgnzhby+RQV+dUs3XL3tN/4sLW4WIm3yiW1weyMieoU3mP/Cf9GBpZXLAmuWnExJ7nfrS2+lJ/48MD3bg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.0-preview4\\microsoft.identitymodel.abstractions.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.0-preview4\\microsoft.identitymodel.jsonwebtokens.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.0-preview4\\microsoft.identitymodel.logging.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0-preview4\\microsoft.identitymodel.tokens.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.0-preview4\\system.identitymodel.tokens.jwt.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
