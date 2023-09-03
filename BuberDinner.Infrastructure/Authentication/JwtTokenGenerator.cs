@@ -3,6 +3,7 @@ using System.Security.Claims;
 using System.Text;
 using BuberDinner.Application.Common.Interfaces.Authentication;
 using BuberDinner.Application.Common.Services;
+using BuberDinner.Domain.Entities;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
@@ -18,7 +19,7 @@ public class JwtTokenGenerator : IJwtTokenGenerator
         _jwtSettings = jwtOptions.Value;
         _dateTimeProvider = dateTimeProvider;
     }
-    public string GeneratorToken(Guid userId, string firstName, string lastName)
+    public string GeneratorToken(User user)
     {
         // Tạo chữ ký token
         var SigningCredentials = new SigningCredentials(
@@ -27,16 +28,16 @@ public class JwtTokenGenerator : IJwtTokenGenerator
                 SecurityAlgorithms.HmacSha256);
         var claims = new[]
         {
-            new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),// Chủ đề token
-            new Claim(JwtRegisteredClaimNames.GivenName, firstName),
-            new Claim(JwtRegisteredClaimNames.FamilyName, lastName),
+            new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),// Chủ đề token
+            new Claim(JwtRegisteredClaimNames.GivenName, user.FirstName),
+            new Claim(JwtRegisteredClaimNames.FamilyName, user.LastName),
             new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()), // ID JWT
         };
 
         var securityToken = new JwtSecurityToken(
             issuer: _jwtSettings.Issuer, // Tổ chức phát hành token
             audience: _jwtSettings.Audience, // Đối tượng sd token
-            // Thời hạn của token
+                                             // Thời hạn của token
             expires: _dateTimeProvider.UtcNow.AddMinutes(_jwtSettings.ExpiryMinutes),
             claims: claims,
             signingCredentials: SigningCredentials);

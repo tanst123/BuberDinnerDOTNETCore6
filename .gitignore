@@ -1,0 +1,4 @@
+
+*.pdb
+BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Application.pdb
+*.dll
