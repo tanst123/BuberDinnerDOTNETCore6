@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jQghDVCOfbL9/kSUS8/FcTR7BlL+50FyImJCnURtTnyJAzKRjVyTP2vgznTtFnYajvIdMUWtExJmQwT7U/eTXg==",
+  "dgSpecHash": "2luJaIIFpNgAoUmdfm1f+qOBORDZtwZUPiuo7ElDzGe3mJ3Ltf83vON7nqSs515jvomGwFyOT/ASJC38efTl2w==",
   "success": true,
-  "projectFilePath": "D:\\C#\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "projectFilePath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

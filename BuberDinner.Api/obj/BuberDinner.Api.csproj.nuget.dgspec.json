@@ -1,41 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
+    "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
   },
   "projects": {
-    "D:\\C#\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
+    "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Api\\BuberDinner.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectUniqueName": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "projectName": "BuberDinner.Api",
-        "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\BuberDinner\\BuberDinner.Api\\obj\\",
+        "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "packagesPath": "C:\\Users\\tan.nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tan.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Application\\BuberDinner.Application.csproj"
               },
-              "D:\\C#\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-                "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+              "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+                "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
               },
-              "D:\\C#\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-                "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+              "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+                "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
               }
             }
           }
@@ -61,8 +59,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,36 +71,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "packagesPath": "C:\\Users\\tan.nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tan.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -129,8 +124,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -139,28 +133,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "packagesPath": "C:\\Users\\tan.nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tan.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -184,8 +176,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -194,28 +185,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "packagesPath": "C:\\Users\\tan.nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tan.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -239,8 +228,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -249,36 +237,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+    "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
+        "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tan.nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tan.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "D:\\C#\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "D:\\idtek\\BuberDinnerDOTNETCore6\\BuberDinner.Application\\BuberDinner.Application.csproj"
               }
             }
           }
@@ -316,8 +302,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -326,7 +311,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
         }
       }
     }
