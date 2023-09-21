@@ -16,7 +16,7 @@ public class AuthenticationService : IAuthenticationService
     public AuthenticationResult Register(string firstName, string lastName, string email, string password)
     {
         //1. Validate the user doesn't exist
-        if (_userRepository.getUserByEmail(email) is not null)
+        if (_userRepository.GetUserByEmail(email) is not null)
         {
             throw new Exception("User with given email already exists");
         }
@@ -38,7 +38,7 @@ public class AuthenticationService : IAuthenticationService
     public AuthenticationResult Login(string email, string password)
     {
         //1. Validate the user exists
-        if (_userRepository.getUserByEmail(email) is not User user)
+        if (_userRepository.GetUserByEmail(email) is not User user)
         {
             throw new Exception("User with given email does not exist");
         }

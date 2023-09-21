@@ -10,3 +10,15 @@ D:\C#\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.d
 D:\C#\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
 D:\C#\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
 D:\C#\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.deps.json
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.dll
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.pdb
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfo.cs
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.dll
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
+D:\idtek\BuberDinnerDOTNETCore6\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll
